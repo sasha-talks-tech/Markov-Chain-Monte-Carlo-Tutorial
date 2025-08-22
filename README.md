@@ -68,6 +68,8 @@ Clone the repository:
 ```bash
 git clone https://github.com/<your-username>/<repo-name>.git
 
+---
+
 ## Alternative Formats for Offline Viewing
 
 In addition to the Jupyter Notebook (`.ipynb`), this repository includes:
@@ -80,7 +82,7 @@ The content, code, and visualizations remain the same as in the notebook, though
 
 ---
 
-## Quick Start
+### Quick Start
 If you want to **explore the tutorial immediately** without setting up Python, open either:
 
 - `notebook.html` in your browser  
