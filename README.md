@@ -80,7 +80,7 @@ The content, code, and visualizations remain the same as in the notebook, though
 
 ---
 
-### Quick Start
+## Quick Start
 If you want to **explore the tutorial immediately** without setting up Python, open either:
 
 - `notebook.html` in your browser  
