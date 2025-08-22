@@ -67,7 +67,7 @@ They were designed solely to illustrate concepts and **do not reflect real-world
 Clone the repository:
 ```bash
 git clone https://github.com/<your-username>/<repo-name>.git
-
+```
 ---
 
 ## Alternative Formats for Offline Viewing
